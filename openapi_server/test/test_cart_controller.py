@@ -38,7 +38,7 @@ class TestCartController(BaseTestCase):
         Add a menu item a cart
         """
         menu_item = {
-            "price": 6.027456183070403,
+            "price": "hello",
             "imageId": 5,
             "name": "name",
             "description": "description",
